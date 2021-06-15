@@ -19,7 +19,7 @@ namespace C969_Project
 
         public UCertifyDB()
         {
-            connectionString = "server=wgudb.ucertify.com;user id=U08jw9;database=U08jw9;persistsecurityinfo=True;password=53689310665";
+            connectionString = "(Removed for security)";
             myCon = new MySqlConnection(connectionString);
         }
         // Adds customer record to the database
